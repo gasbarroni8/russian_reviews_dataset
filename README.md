@@ -18,7 +18,7 @@ https://github.com/n1EzeR/reviews_tazalau
 ### Category format
 Number of categories: 17
 - parfumes
-- smartphones
+- smartphones (the largest category, ~45k reviews)
 - tires
 - watches
 - wearables
