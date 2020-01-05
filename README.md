@@ -11,6 +11,17 @@ https://github.com/n1EzeR/reviews_tazalau
 2. 6 756 Kazakh reviews
 3. 243 undetected language reviews (numbers like "10/10", English or Kazakh in latin)
 
+## How to download
+1. Go to data directory (https://github.com/n1EzeR/russian_reviews_dataset/tree/master/data)
+2. Download raw/cleaned data
+
+or
+
+```
+git clone https://github.com/n1EzeR/russian_reviews_dataset
+```
+
+
 ## Dataset structure:
 ### Review format
 - Review text might be in `text` and/or in `plus` and/or in `minus`
