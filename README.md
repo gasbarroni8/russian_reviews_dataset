@@ -1,5 +1,17 @@
 # Reviews Dataset
 
+
+## Download
+1. Go to data directory (https://github.com/n1EzeR/russian_reviews_dataset/tree/master/data)
+2. Download raw/cleaned data
+
+or
+
+```
+git clone https://github.com/n1EzeR/russian_reviews_dataset
+cd data
+```
+
 ## Dataset was collected by: 
 https://github.com/n1EzeR/reviews_parser
 
@@ -10,17 +22,6 @@ https://github.com/n1EzeR/reviews_tazalau
 1. 112 049 Russian reviews
 2. 6 756 Kazakh reviews
 3. 243 undetected language reviews (numbers like "10/10", English or Kazakh in latin)
-
-## How to download
-1. Go to data directory (https://github.com/n1EzeR/russian_reviews_dataset/tree/master/data)
-2. Download raw/cleaned data
-
-or
-
-```
-git clone https://github.com/n1EzeR/russian_reviews_dataset
-```
-
 
 ## Dataset structure:
 ### Review format
