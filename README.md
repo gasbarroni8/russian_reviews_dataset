@@ -2,7 +2,7 @@
 
 
 ## Download
-1. Go to data directory (https://github.com/n1EzeR/russian_reviews_dataset/tree/master/data)
+1. Go to data directory (https://github.com/zhanymkanov/russian_reviews_dataset/tree/master/data)
 2. Download raw/cleaned data
 
 or
@@ -13,10 +13,10 @@ cd data
 ```
 
 ## Dataset was collected by: 
-https://github.com/n1EzeR/reviews_parser
+https://github.com/zhanymkanov/reviews_parser
 
 ## Dataset was compiled and partially cleaned by:
-https://github.com/n1EzeR/reviews_tazalau
+https://github.com/zhanymkanov/reviews_tazalau
 
 ## Dataset contains:
 1. 112 049 Russian reviews
