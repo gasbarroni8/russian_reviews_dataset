@@ -8,7 +8,7 @@
 or
 
 ```
-git clone https://github.com/n1EzeR/russian_reviews_dataset
+git clone https://github.com/zhanymkanov/russian_reviews_dataset
 cd data
 ```
 
