@@ -19,9 +19,9 @@ https://github.com/zhanymkanov/reviews_parser
 https://github.com/zhanymkanov/reviews_tazalau
 
 ## Dataset contains:
-1. 112 049 Russian reviews
-2. 6 756 Kazakh reviews
-3. 243 undetected language reviews (numbers like "10/10", English or Kazakh in latin)
+1. 143k Russian reviews
+2. 8.7k Kazakh reviews
+3. 256 undetected language reviews (numbers like "10/10", English or Kazakh in latin)
 
 ## Dataset structure:
 ### Review format
@@ -29,9 +29,9 @@ https://github.com/zhanymkanov/reviews_tazalau
 - At least one of the columns is filled
 ### Category format
 Number of categories: 17
-- parfumes
-- smartphones (the largest category, ~45k reviews)
-- tires
+- computers
+- smartphones
+- perfumes
 - watches
 - wearables
 - etc.
