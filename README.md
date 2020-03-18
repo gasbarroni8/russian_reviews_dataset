@@ -30,8 +30,8 @@ https://github.com/zhanymkanov/reviews_tazalau
 ### Category format
 Number of categories: 17
 - computers
-- smartphones (the largest category, ~45k reviews)
-- tires
+- smartphones
+- perfumes
 - watches
 - wearables
 - etc.
